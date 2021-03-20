@@ -1,5 +1,5 @@
-public class Hello {
-  public static voidmain(String[]) {
-    System.out.println("Hello, world");
-    }
-}
+public class hello {	public static void main(String[] args) {
+		// TODO Auto-generated method stub	
+		for(int i=0; i<10; i++){
+			System.out.println("THis is our First Java Programme :::::");
+		}	}}
